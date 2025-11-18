@@ -2,8 +2,8 @@
 
 > A beautiful, lightning-fast Chrome extension for instant word definitions.
 
-[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-brightgreen)](https://github.com/yourusername/luno)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/luno/releases)
+[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-brightgreen)](https://github.com/EasyCodie/luno)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/EasyCodie/luno/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ![Luno Demo](docs/screenshots/hero.gif)
@@ -315,7 +315,7 @@ git push origin feature/amazing-feature
 ## Issues & Bug Reports
 
 ### Report a Bug
-Use [GitHub Issues](https://github.com/yourusername/luno/issues) to report bugs:
+Use [GitHub Issues](https://github.com/EasyCodie/luno/issues) to report bugs:
 
 1. Check if the issue already exists
 2. Provide a clear title and description
@@ -438,9 +438,9 @@ See [CHANGELOG.md](CHANGELOG.md) for version history and release notes.
 
 ## Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/luno/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/luno/discussions)
-- **Email**: support@lunoapp.dev
+- **Issues**: [GitHub Issues](https://github.com/EasyCodie/luno/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/EasyCodie/luno/discussions)
+- **Email**: ivangolovin200809@gmail.com
 
 ## Author
 
@@ -448,7 +448,7 @@ Created with ❤️ by Ivan Golovin
 
 Follow development updates:
 - Discord: @ivanmolotovic
-- GitHub: [@yourusername](https://github.com/EasyCodie)
+- GitHub: [@EasyCodie](https://github.com/EasyCodie)
 
 ---
 

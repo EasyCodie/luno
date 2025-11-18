@@ -19,7 +19,7 @@ Please **do not** create a public GitHub issue for security vulnerabilities. Thi
 
 ### 2. Contact Us Privately
 
-Send an email to: **security@lunoapp.dev**
+Send an email to: **ivangolovin200809@gmail.com**
 
 Include the following information:
 - Description of the vulnerability
@@ -119,7 +119,7 @@ Out of scope:
 
 4. **Report Issues**
    - Report any suspicious behavior immediately
-   - Email security@lunoapp.dev
+   - Email ivangolovin200809@gmail.com
 
 ## Security Changelog
 

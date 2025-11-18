@@ -90,7 +90,7 @@ Beyond defaults, add:
 
 ## 📝 Update Placeholders
 
-Replace `yourusername` in these files with actual GitHub username:
+Ensure GitHub username `EasyCodie` is referenced in these files:
 
 - [ ] README.md (multiple instances)
 - [ ] CONTRIBUTING.md
@@ -100,7 +100,7 @@ Replace `yourusername` in these files with actual GitHub username:
 - [ ] docs/REPOSITORY_SETTINGS.md
 - [ ] src/popup/components/AboutSection.tsx
 
-Replace `support@lunoapp.dev` with actual contact email:
+Ensure contact email `ivangolovin200809@gmail.com` is referenced instead of outdated values:
 - [ ] README.md
 - [ ] CONTRIBUTING.md
 - [ ] CODE_OF_CONDUCT.md

@@ -69,6 +69,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for information on how to contribute to L
 
 ## Questions or Feedback?
 
-- Open an [issue](https://github.com/yourusername/luno/issues)
-- Start a [discussion](https://github.com/yourusername/luno/discussions)
-- Email us at support@lunoapp.dev
+- Open an [issue](https://github.com/EasyCodie/luno/issues)
+- Start a [discussion](https://github.com/EasyCodie/luno/discussions)
+- Email us at ivangolovin200809@gmail.com

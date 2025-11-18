@@ -42,13 +42,13 @@ Choose one of the following methods:
 **Option A: Clone the repository (recommended)**
 
 ```bash
-git clone https://github.com/yourusername/luno.git
+git clone https://github.com/EasyCodie/luno.git
 cd luno/quickdefine
 ```
 
 **Option B: Download ZIP**
 
-1. Go to [https://github.com/yourusername/luno](https://github.com/yourusername/luno)
+1. Go to [https://github.com/EasyCodie/luno](https://github.com/EasyCodie/luno)
 2. Click **Code** → **Download ZIP**
 3. Extract the ZIP file
 4. Open the `luno/quickdefine` directory in your terminal or file explorer
@@ -185,8 +185,8 @@ A: Go to `chrome://extensions/shortcuts` and find Luno to configure custom short
 
 Need help? We’re happy to assist.
 
-- Open an issue: [https://github.com/yourusername/luno/issues](https://github.com/yourusername/luno/issues)
-- Start a discussion: [https://github.com/yourusername/luno/discussions](https://github.com/yourusername/luno/discussions)
-- Email: support@lunoapp.dev
+- Open an issue: [https://github.com/EasyCodie/luno/issues](https://github.com/EasyCodie/luno/issues)
+- Start a discussion: [https://github.com/EasyCodie/luno/discussions](https://github.com/EasyCodie/luno/discussions)
+- Email: ivangolovin200809@gmail.com
 
 Thank you for installing Luno! 🌙✨

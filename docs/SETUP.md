@@ -21,13 +21,13 @@ npm -v
 ### Option 1: Clone the Repository (Recommended)
 
 ```bash
-git clone https://github.com/yourusername/luno.git
+git clone https://github.com/EasyCodie/luno.git
 cd luno/quickdefine
 ```
 
 ### Option 2: Download ZIP
 
-1. Go to the [Luno GitHub repo](https://github.com/yourusername/luno)
+1. Go to the [Luno GitHub repo](https://github.com/EasyCodie/luno)
 2. Click **Code** → **Download ZIP**
 3. Extract the archive
 4. Navigate to `luno/quickdefine`
@@ -127,6 +127,6 @@ See the [main README](../README.md#troubleshooting) or [INSTALL](../INSTALL.md) 
 ## Support
 
 If you run into issues:
-- Open an issue: <https://github.com/yourusername/luno/issues>
-- Start a discussion: <https://github.com/yourusername/luno/discussions>
-- Email: support@lunoapp.dev
+- Open an issue: <https://github.com/EasyCodie/luno/issues>
+- Start a discussion: <https://github.com/EasyCodie/luno/discussions>
+- Email: ivangolovin200809@gmail.com
