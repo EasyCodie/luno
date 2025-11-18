@@ -44,7 +44,7 @@
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/luno.git
+git clone https://github.com/EasyCodie/luno.git
 cd luno/quickdefine
 ```
 
@@ -70,7 +70,7 @@ See the [Setup Guide](#setup-guide) below for detailed instructions.
 
 ### For Users
 1. Install Luno from Chrome Web Store (or manually)
-2. Right-click any word on a webpage → Select **"Quick Define"**
+2. Right-click any word on a webpage → Select **"Define"**
 3. Or click the Luno icon and search manually
 4. View definitions, history, and adjust settings
 
@@ -89,7 +89,7 @@ See [Development](#development) section below for local development setup.
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/yourusername/luno.git
+git clone https://github.com/EasyCodie/luno.git
 cd luno/quickdefine
 ```
 
@@ -426,10 +426,6 @@ See [CHANGELOG.md](CHANGELOG.md) for version history and release notes.
 ### APIs Used
 - [Free Dictionary API](https://dictionaryapi.dev/) - Word definitions and pronunciations
 
-### Design Inspiration
-- [Linear](https://linear.app) - Clean, modern UI patterns
-- [Raycast](https://raycast.com) - Command-focused UX
-
 ### Libraries & Tools
 - [React](https://react.dev/) - UI framework
 - [TypeScript](https://www.typescriptlang.org/) - Type safety
@@ -448,11 +444,11 @@ See [CHANGELOG.md](CHANGELOG.md) for version history and release notes.
 
 ## Author
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by Ivan Golovin
 
 Follow development updates:
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Discord: @ivanmolotovic
+- GitHub: [@yourusername](https://github.com/EasyCodie)
 
 ---
 
