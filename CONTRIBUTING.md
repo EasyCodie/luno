@@ -40,7 +40,7 @@ cd luno/quickdefine
 
 3. **Add upstream remote**
 ```bash
-git remote add upstream https://github.com/ORIGINAL-OWNER/luno.git
+git remote add upstream https://github.com/EasyCodie/luno.git
 ```
 
 4. **Install dependencies**
@@ -63,7 +63,7 @@ npm run build
 
 ### 1. Pick an Issue
 
-- Check the [issues page](https://github.com/yourusername/luno/issues)
+- Check the [issues page](https://github.com/EasyCodie/luno/issues)
 - Look for issues labeled `good first issue` or `help wanted`
 - Comment on the issue to let others know you're working on it
 - If you want to work on something not listed, create an issue first to discuss

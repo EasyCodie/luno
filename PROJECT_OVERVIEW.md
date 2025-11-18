@@ -22,7 +22,7 @@ Luno is a beautiful Chrome extension that provides instant word definitions thro
 
 ```bash
 # Clone and setup
-git clone https://github.com/yourusername/luno.git
+git clone https://github.com/EasyCodie/luno.git
 cd luno/quickdefine
 
 # Install and build
@@ -163,9 +163,9 @@ npm run preview  # Preview built extension
 
 ## Community
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/luno/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/luno/discussions)
-- **Email**: support@lunoapp.dev
+- **Issues**: [GitHub Issues](https://github.com/EasyCodie/luno/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/EasyCodie/luno/discussions)
+- **Email**: ivangolovin200809@gmail.com
 
 ---
 
@@ -186,8 +186,8 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## Quick Links
 
 - 📖 [Full Documentation](README.md)
-- 🐛 [Report Bug](https://github.com/yourusername/luno/issues/new?template=bug_report.md)
-- 💡 [Request Feature](https://github.com/yourusername/luno/issues/new?template=feature_request.md)
+- 🐛 [Report Bug](https://github.com/EasyCodie/luno/issues/new?template=bug_report.md)
+- 💡 [Request Feature](https://github.com/EasyCodie/luno/issues/new?template=feature_request.md)
 - 🤝 [Contribute](CONTRIBUTING.md)
 - 📜 [Changelog](CHANGELOG.md)
 

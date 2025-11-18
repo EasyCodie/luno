@@ -118,15 +118,15 @@ Suggested labels (in addition to defaults):
 
 ## README Badges
 
-Add these badges to the top of README.md (replace placeholders):
+Add these badges to the top of README.md:
 
 ```markdown
-[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-brightgreen)](https://github.com/yourusername/luno)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/luno/releases)
+[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-brightgreen)](https://github.com/EasyCodie/luno)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/EasyCodie/luno/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/luno)](https://github.com/yourusername/luno/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/luno)](https://github.com/yourusername/luno/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/EasyCodie/luno)](https://github.com/EasyCodie/luno/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/EasyCodie/luno)](https://github.com/EasyCodie/luno/stargazers)
 ```
 
 ## Social Preview Image
@@ -169,7 +169,7 @@ Create `SECURITY.md`:
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability, please email security@lunoapp.dev instead of using the public issue tracker.
+If you discover a security vulnerability, please email ivangolovin200809@gmail.com instead of using the public issue tracker.
 
 We'll respond within 48 hours and work with you to understand and address the issue.
 ```
@@ -230,4 +230,4 @@ Regular maintenance tasks:
 
 ---
 
-**Note**: Replace all instances of `yourusername` with your actual GitHub username before going public!
+**Note**: All references have been updated to use the GitHub username `EasyCodie` and contact email `ivangolovin200809@gmail.com`.
