@@ -45,7 +45,7 @@
 1. Clone the repository
 ```bash
 git clone https://github.com/EasyCodie/luno.git
-cd luno/quickdefine
+cd luno
 ```
 
 2. Install dependencies
@@ -90,7 +90,7 @@ See [Development](#development) section below for local development setup.
 1. **Clone Repository**
 ```bash
 git clone https://github.com/EasyCodie/luno.git
-cd luno/quickdefine
+cd luno
 ```
 
 2. **Install Dependencies**
@@ -118,7 +118,7 @@ npm run build
 
 ### Project Structure
 ```
-luno/quickdefine/
+luno/
 ├── src/
 │   ├── background.ts              # Service worker (context menu, messaging)
 │   ├── popup/
